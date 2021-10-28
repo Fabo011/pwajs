@@ -1,5 +1,9 @@
 //Only for new Projects
  Please only clone it as a new project.
+ 
+ //How to start it?
+ npm install
+ npm start
 
  //What the extention is?
  Base progressiv web app(PWA) with website path from server.js.
