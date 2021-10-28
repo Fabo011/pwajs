@@ -1,7 +1,7 @@
 //Only for new Projects
- Please only install it as a new project.
+ Please only clone it as a new project.
 
- //What the extention is going to install?
+ //What the extention is?
  Base progressiv web app(PWA) with website path from server.js.
 
 
