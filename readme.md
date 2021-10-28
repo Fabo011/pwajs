@@ -2,7 +2,7 @@
  Please only clone it as a new project.
  
  //How to start it?
- npm install
+ npm install <br>
  npm start
 
  //What the extention is?
