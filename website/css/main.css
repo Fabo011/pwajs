@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Zen+Antique&display=swap');
+
+:root{
+    --font: 'Zen Antique', serif;
+    --main-Size: 35px;
+    --threesixty: 'Dancing Script', cursive;
+}
+
+*{
+   font-family: var(--font);
+   font-size: var(--main-Size);
+}
+
+b{
+    font-family: var(--threesixty);
+}
+
+a{
+    color: #ff7900;
+}
+b:hover{
+    font-size: 48px;
+    transition-duration: 1s;
+}
+
+p{
+    font-size: 18px;
+}
+
+.header{
+    justify-content: center;
+    text-align: center; 
+}
+
+
+
